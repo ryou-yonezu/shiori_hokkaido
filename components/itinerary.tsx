@@ -65,8 +65,8 @@ export function Itinerary() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 0.5 }}
             >
-              <img src="/img/shin_chitose.webp" alt="New Chitose Airport" className="rounded-lg" />
-              <img src="/img/iihininaru.jpg" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/shin_chitose.webp" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/iihininaru.jpg" alt="New Chitose Airport" className="rounded-lg" />
 
             </motion.div>
           </div>
@@ -103,8 +103,8 @@ export function Itinerary() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 0.7 }}
             >
-              <img src="/img/select_sale.jpg" alt="New Chitose Airport" className="rounded-lg" />
-              <img src="/img/otaru_yoru.jpg" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/select_sale.jpg" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/otaru_yoru.jpg" alt="New Chitose Airport" className="rounded-lg" />
 
             </motion.div>
           </div>
@@ -145,8 +145,8 @@ export function Itinerary() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 0.9 }}
             >
-              <img src="/img/aono_doukutsu.jpg" alt="New Chitose Airport" className="rounded-lg" />
-              <img src="/img/kaisendon.jpg" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/aono_doukutsu.jpg" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/kaisendon.jpg" alt="New Chitose Airport" className="rounded-lg" />
 
             </motion.div>
           </div>
@@ -191,8 +191,8 @@ export function Itinerary() {
               animate={{ opacity: 1 }}
               transition={{ duration: 1, delay: 1.1 }}
             >
-              <img src="/img/jyouba.jpg" alt="Horseback Riding in Ishikari" className="rounded-lg" />
-              <img src="/img/yakei.jpg" alt="New Chitose Airport" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/jyouba.jpg" alt="Horseback Riding in Ishikari" className="rounded-lg" />
+              <img src="/shiori_hokkaido/img/yakei.jpg" alt="New Chitose Airport" className="rounded-lg" />
             </motion.div>
           </div>
         </CardContent>
@@ -210,7 +210,7 @@ export function Itinerary() {
         </CardHeader>
         <CardContent>
           <motion.img 
-            src="/img/root.png" 
+            src="/shiori_hokkaido/img/root.png" 
             alt="Hokkaido Trip Map" 
             className="w-full rounded-lg"
             initial={{ opacity: 0 }}
