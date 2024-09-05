@@ -19,7 +19,7 @@ export function Itinerary() {
       >
         <div className="relative h-64">
           <img
-            src="/img/top_hokkaido.jpg"
+            src="/shiori_hokkaido/img/top_hokkaido.jpg"
             alt="Hokkaido Landscape"
             className="object-cover w-full h-full"
           />
